@@ -1,0 +1,7 @@
+.line {
+    background-color : cyan;
+    height: 10px;
+    width: 100%;
+    border-radius: 10px;
+    margin: 10px auto
+}
